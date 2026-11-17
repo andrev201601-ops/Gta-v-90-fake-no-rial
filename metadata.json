@@ -1,0 +1,6 @@
+{
+  "name": "GTA VI Seii",
+  "description": "App de broma estilo pantalla de carga de GTA VI que muestra un error falso y cambia el fondo de pantalla por uno divertido de seii__.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

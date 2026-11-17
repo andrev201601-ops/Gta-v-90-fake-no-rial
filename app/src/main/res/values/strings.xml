@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GTA VI Seii</string>
+
+    <!-- Loading Screen -->
+    <string name="loading_bg_description">Ilustración estilo Vice City de la pantalla de carga</string>
+    <string name="badge_online_mode">ONLINE • VICE STREAM</string>
+    <string name="badge_build_version">BUILD 6.0.SEII</string>
+    <string name="hero_title_gta">GRAND THEFT</string>
+    <string name="hero_title_vi">VI</string>
+    <string name="hero_subtitle">VICE STREAM EDITION</string>
+    <string name="loading_label_prefix">CARGANDO</string>
+    <string name="loading_status_initializing">Inicializando motor RAGE 9…</string>
+    <string name="loading_status_stalled">Verificando paquetes de twitch.tv/seii__…</string>
+    <string name="loading_status_finalizing">Preparando sorpresa en pantalla…</string>
+
+    <string-array name="loading_tips">
+        <item>Cargando shaders ultra 8K de Vice City…</item>
+        <item>Conectando al servidor secreto de seii__ en Twitch…</item>
+        <item>Descargando 480 GB de memes sin que te des cuenta…</item>
+        <item>Comprobando si te ríes pierdes en este móvil…</item>
+        <item>Inyectando ray-tracing en tu fondo de pantalla…</item>
+    </string-array>
+
+    <!-- Fake Error Modal -->
+    <string name="error_header_code">ERROR FATAL • 0xSE11_VI</string>
+    <string name="error_icon_description">Icono de error crítico del sistema</string>
+    <string name="error_headline">¡GTA VI ha dejado de responder!</string>
+    <string name="error_body">Tu móvil no pudo con tantos gráficos… y encima te acaba de trolear seii__ en directo.\n\nAl cerrarse la app, tu fondo de pantalla cambiará para recordártelo.</string>
+    <string name="error_log_line_1">$ connect twitch.tv/seii__ [OK]</string>
+    <string name="error_log_line_2">$ payload: seii_troll_wallpaper.jpg</string>
+    <string name="error_log_line_3">$ status: TROLEO COMPLETADO (100%)</string>
+    <string name="error_button_accept">ACEPTAR Y SALIR (%1$ds)</string>
+    <string name="error_button_applying">APLICANDO FONDO…</string>
+    <string name="error_auto_close_hint">La aplicación se cerrará automáticamente</string>
+</resources>
